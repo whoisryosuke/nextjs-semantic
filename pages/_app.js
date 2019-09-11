@@ -1,7 +1,7 @@
 import React from 'react';
 import App, { Container } from 'next/app';
 
-import '../.semantic/dist/semantic.min.css';
+import 'fomantic-ui/dist/semantic.min.css';
 
 class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
