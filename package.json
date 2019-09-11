@@ -1,8 +1,8 @@
 {
-  "name": "nextjs-semantic",
-  "description": "Next.js + Semantic UI + Styled Components",
-  "version": "2.0.0",
-  "author": "Martín M.",
+  "name": "seshsource-frontend-next",
+  "description": "Frontend for SeshSource.com",
+  "version": "1.0.0",
+  "author": "Ryosuke",
   "license": "MIT",
   "scripts": {
     "dev": "next",
